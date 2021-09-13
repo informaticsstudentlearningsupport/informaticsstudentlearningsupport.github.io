@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Informatics Student Learning Support
 
-You can use the [editor on GitHub](https://github.com/informaticsstudentlearningsupport/infstudentlearningsupport.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This the webpage of the Informatics Student Learning Support at the School of Informatics, University of Edinburgh. There are several schemes the School is running to support its students beyond the regular courses. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* InfBase is a drop-in helpdesk for year-1 and year-2 students to get additional tutoring and support with their courses. InfBase starts in week 3 of each semester. Find out more or join the Teams team.
+* InfPALS is a peer support for 1st year Informatics students including topics around courses but also general topics related to informatics. InfPALS starts in week 3 of each semester. Find out more.
+* CompSoc is a tech society, organizing talks, workshops, and plenty of socials. Find out more.
+* Programming Club. Find out more.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Check back for regular updates, especially before InfBase and InfPALS start in week 3!
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Contact: [Dr Benjamin Bach](bbach@ed.ac.uk)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/informaticsstudentlearningsupport/infstudentlearningsupport.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
