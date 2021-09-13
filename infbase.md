@@ -8,19 +8,18 @@ Due to persisting social distancing measures, InfBase will run online during sem
 
 ## Supported Courses 
 
-* Year 1: Informatics 1—Object Oriented Programming
-* Year 1: Informatics 1—Cognitive Science
+__Semester 1:__
+* Year 1: Informatics 1—Introduction to Computation
+* Year 2: Informatice 2: Foundations of Data Science
+* Year 2: Informatice 2C Introduction to Computer systems
+* Year 2: Informatics 2 – Introduction to Algorithms and Data Structures
+
+__Semester 2:__
+* Informatics 1 - Object Oriented ProgrammingYear 1: Informatics 1—Cognitive Science
+* Year 1: Informatics 1—Cognitive Science 
+* Informatics 2 - Software Engineering and Professional Practice
 * Year 2: Informatice 2C: Foundations of Data Science
 * Year 2: Informatice 2D: Reasoning & Agents
-* Year 2: Informatice 2C: Software Engineering and Professional Practice
-
-<!-- Year 1 students (Semester 2):
-Object Oriented Programming
-Cognitive Science
-Year 2 students (Semester 2):
-Foundations of Data Science
-Reasoning and Agents
-Software Engineering and Professional Practice -->
 
 
 ## Join an InfBase Session
