@@ -44,11 +44,5 @@ COMING SOON
 
 ## Testimonials
 
-_"It’s about working on topics from INF1 in a practical and interactive way, in small groups"_ (Former InfPALS Participant)
-_Students create an amazing place where you can be comfortable to make mistakes, and thus incredibly improve your understanding of the topics you are learning.
-You collaborate with other students and see that they too might be struggling and that it’s nothing to be ashamed of.
-You get to make new amazing friends who can help you when you need them.
-They bring amazing snacks so you never leave hungry – there is no reason not to join 😉 !" 
-
-~ Patrícia Mižúrová, Second Year Student
+_"It’s about working on topics from INF1 in a practical and interactive way, in small groups"_ (Former InfPALS Participant). Students create an amazing place where you can be comfortable to make mistakes, and thus incredibly improve your understanding of the topics you are learning. You collaborate with other students and see that they too might be struggling and that it’s nothing to be ashamed of. You get to make new amazing friends who can help you when you need them. They bring amazing snacks so you never leave hungry – there is no reason not to join 😉 !"_ ~ Patrícia Mižúrová, Second Year Student
 
