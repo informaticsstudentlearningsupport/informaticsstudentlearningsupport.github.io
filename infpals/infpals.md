@@ -3,7 +3,9 @@
 
 InfPALS is a Peer support for 1st year Informatics students. Instead of covering the regular courses as it does [InfBase](infbase.html), InfPALS focuses on anything else that you might want to catch up with. InfPALS is also run in sessions and covers, e.g., : 
 
-* 
+* helping with finite state automata, resolution, higher order functions and more
+* in-person campus tours (week 1)
+* ...
 
 
 As a group of 2nd and 3rd year students we will guide you through difficulties with course material and help you apply your knowledge in new situations to strengthen your understanding. Together we will ease your transition into your new-found university life!
