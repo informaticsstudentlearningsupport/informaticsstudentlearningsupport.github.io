@@ -1,1 +1,1 @@
-# informaticsstudentlearningsupport.github.io
+# infstudentlearningsupport.github.io
