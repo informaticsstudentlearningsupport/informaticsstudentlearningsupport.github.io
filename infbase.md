@@ -6,7 +6,13 @@ InfBase is run by students in higher years with of expertise and who offer 1-on-
 
 Due to persisting social distancing measures, InfBase will run online during semester 1 and very likely will remain online during semester 2.
 
-## Supported Courses  
+## Supported Courses 
+
+* Year 1: Informatics 1—Object Oriented Programming
+* Year 1: Informatics 1—Cognitive Science
+* Year 2: Informatice 2C: Foundations of Data Science
+* Year 2: Informatice 2D: Reasoning & Agents
+* Year 2: Informatice 2C: Software Engineering and Professional Practice
 
 <!-- Year 1 students (Semester 2):
 Object Oriented Programming
