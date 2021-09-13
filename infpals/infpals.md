@@ -26,8 +26,7 @@ We have worked on activities relating to some of the core concepts of first year
 
 ## Join an InfPALS session
 
-<COMING SOON>
-
+COMING SOON 
 
 ## Why Participate
 
