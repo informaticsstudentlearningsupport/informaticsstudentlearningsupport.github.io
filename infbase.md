@@ -1,4 +1,4 @@
-Shortcuts: [Supported Courses](#supported-courses) | [Join](#join-an-infbase-session) | [Schedule](#schedule) | [Feedback](feedback.html) | [Tutor FAQ](tutor-faq.html)
+Shortcuts: [Supported Courses](#supported-courses) - [Join](#join-an-infbase-session) - [Schedule](#schedule) - [Feedback](feedback.html) - [Tutor FAQ](tutor-faq.html)
 
 
 # What is InfBase
@@ -10,7 +10,7 @@ InfBase is run by students in higher years with of expertise and who offer 1-on-
 
 InfBase will likely run online during semester 1 but we are waiting for clearance of a dedicated space in Appelton Tower. 
 
-If you have suggestions and feedback for InfBase, please [let us know how we are doing](feedback.html)
+If you have suggestions and feedback for InfBase, please [let us know how we are doing](feedback.html).
 
 ## Supported Courses 
 
