@@ -1,10 +1,16 @@
+[Supported Courses](#supported-courses) | [Join](#join-an-infbase-session) | [Schedule](#schedule) | [Feedback](feedback.html) 
+
+
 # What is InfBase
+
 
 InfBase is a drop-in helpdesk for year-1 and year-2 students to get additional tutoring and support with their specific course content.
 
 InfBase is run by students in higher years with of expertise and who offer 1-on-1 support and advice on core pre-honours courses in Informatics. In addition to supporting drop-in assistance, InfBase can be used as a place to work together with other students, with support from an InfBase tutor.
 
 InfBase will likely run online during semester 1 but we are waiting for clearance of a dedicated space in Appelton Tower. 
+
+If you have suggestions and feedback for InfBase, please [let us know how we are doing](feedback.html)
 
 ## Supported Courses 
 
@@ -35,7 +41,3 @@ Regular InfBase sessions start in Week 3 (Monday, October 4th, 2021) and will ru
 
 ![InfBase 2021 schedule](images/infbase-2021-schedule.png)
 
-
-## How are we doing? 
-
-<iframe width="100%" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYR_CTByYBlZHtlYdm3WViTpUOVFRNlJBREFDQVhWOEFCVzhURjRXRUZBNy4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
