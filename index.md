@@ -11,6 +11,8 @@ __This website is under heavy development at the beginning of the semester to ge
 
 Check back for regular updates, especially before InfBase and InfPALS start in week 3!
 
+**If you have feedback about InfBase, please [let us know how we are doing and what we should improve](feedback.html).
+**
 Contact: [Dr Benjamin Bach](bbach@ed.ac.uk)
 
 
