@@ -1,4 +1,4 @@
-[Supported Courses](#supported-courses) | [Join](#join-an-infbase-session) | [Schedule](#schedule) | [Feedback](feedback.html) | [Tutor FAQ](tutor-faq.html)
+Shortcuts: [Supported Courses](#supported-courses) | [Join](#join-an-infbase-session) | [Schedule](#schedule) | [Feedback](feedback.html) | [Tutor FAQ](tutor-faq.html)
 
 
 # What is InfBase
