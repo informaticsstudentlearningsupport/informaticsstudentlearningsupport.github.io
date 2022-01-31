@@ -38,5 +38,5 @@ If you wish to create an online study group, you can create dedicated channels i
 
 Regular InfBase sessions start in Week 3 (Monday, October 4th, 2021) and will run until the end of revision week. Each session runs for 2 hour (e.g., Monday 1pm-3pm) and is supported by a tutor (last column). Not all sessions can cover all courses. 
 
-![InfBase 2021 schedule](images/Schedule 2021_22 S2.png)
+![InfBase 2021 schedule](images/Schedule 2021_22_S2.png)
 
