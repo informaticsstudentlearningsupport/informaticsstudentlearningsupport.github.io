@@ -25,6 +25,7 @@ __Semester 2:__
 * Year 1: Informatics 1 - Cognitive Science 
 * Year 2: Informatics 2 - Software Engineering and Professional Practice
 * Year 2: Informatice 2C - Foundations of Data Science
+* YEar 2: Informatics 2 - Introduction to Algorithms and Data Structures
 * Year 2: Informatice 2D - Reasoning & Agents
 
 
