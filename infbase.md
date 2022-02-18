@@ -42,13 +42,13 @@ If you wish to create an online study group, you can create dedicated channels i
 Regular InfBase sessions start in Week 3 (Monday, January 31st, 2022) and will run until the end of revision week. Each session runs for 2 hour (e.g., Monday 1pm-3pm) and is supported by a tutor (last column). Not all sessions can cover all courses. 
 
 During **Flexible Learning Week** (Feb 21-Feb 25), a reduced number of InfBase sessions will run. The following sessions will run during Flexible Learning Week: 
-* Mo
-* Asanska
-* Jin
-* Linda, 
-* Jai
-* Bartek
-* Alessandra 
+* Mo (Appleton Tower)
+* Zornitsa (Appleton Tower)
+* Jin (Appleton Tower)
+* Linda (Online, Teams) 
+* Jai (Online, Teams)
+* Bartek (Online, Teams
+* Alessandra (online on Teams, not in person!)
 
 
 ![InfBase 2021 schedule](images/infbase-schedule-2021_22_S2.png)
