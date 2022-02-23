@@ -17,6 +17,7 @@ Contact: [Dr Benjamin Bach](bbach@ed.ac.uk)
 
 # Other Student Support (wip)
 
+* **[Better Informatics](https://betterinformatics.com)**
 * **Byllying and Harassment:** 
   * [What constitutes bullying and harassment including examples of such behaviour?](https://www.ed.ac.uk/equality-diversity/respect/guidance/harassment) 
   * For more information on support, guidance for students and staff who experienced or were accused of bullying and harassment, as well as updates on the University Don’t Cross The Line campaign are below. [More information including support, guidance and Don't Cross the Line campaign](https://www.ed.ac.uk/equality-diversity/respect)
