@@ -15,7 +15,7 @@ Check back for regular updates, especially before InfBase and InfPALS start in w
 Contact: [Dr Benjamin Bach](bbach@ed.ac.uk)
 
 
-# Other Student Support
+# Other Student Support (wip)
 
 * **Byllying and Harassment:** 
   * [What constitutes bullying and harassment including examples of such behaviour?](https://www.ed.ac.uk/equality-diversity/respect/guidance/harassment) 
